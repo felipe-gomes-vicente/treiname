@@ -1,11 +1,14 @@
+/* Google Fonts Typography*/
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap");
 
+/* HTML5 display-role reset for browsers */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* Body config global */
 body {
   
     font-family: "Open Sans", sans-serif;
@@ -20,7 +23,8 @@ body {
     margin: 0 auto;
     padding-top: 65px;
   }
-  
+
+  /* NavBar */
   nav {
     display: flex;
     justify-content: space-between;
@@ -100,6 +104,7 @@ body {
       background: #4EA788;
   }
   
+ /* Footer */ 
   footer {
     font-size: 14px;
     line-height: 28px;
@@ -113,7 +118,9 @@ body {
     font-weight: bold;
   }
   
+  /* Id imagem balls */
   #balls {
+      position: fixed;
       bottom: 0;
       right: 0;
   }
