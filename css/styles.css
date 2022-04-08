@@ -41,6 +41,11 @@ body {
     
     margin-bottom: 55px;
   }
+
+  nav a:hover {
+    opacity: .5;
+    transform: all .2s;
+  }
   
   ul {
     display: flex;
@@ -135,6 +140,11 @@ body {
     font-weight: bold;
   }
   
+footer a:hover {
+  opacity: .8;
+  transform: all .2s;
+}
+
   /* Id imagem balls */
   #balls {
       position: fixed;
