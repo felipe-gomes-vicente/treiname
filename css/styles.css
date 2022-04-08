@@ -59,6 +59,15 @@ body {
   ul {
     font-family: "Mulish", sans-serif;
   }
+
+  /* Main */
+  main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* Section */
   
   h1 {
     font-size: 49px;
@@ -79,7 +88,7 @@ body {
     font-size: 14px;
     line-height: 28px;
     color: #7d7987;
-  
+    
     margin: 40px 0;
   }
   
