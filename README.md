@@ -8,8 +8,8 @@
 
 ### 💻 Treina Me
 
-O desafio desse projeto foi corrigir bugs página web que veio quebrado e com erros, utilizei conhecimento de HTML e CSS de estudo do módulo Stage 2 fortalecer conhecimento do que foi aplicado no projeto anterior, utilizei o figma e seguir o protótipo do projeto e solucionar o código quebrado.
-Foi além de refatorar foi feito uma estrutura de sistema de arquivos do projeto, elementos HTML semânticos, barra de navegação, efeito no elemento links e adição do botão whatsapp.
+O desafio desse projeto foi corrigir bugs página web que veio quebrado e com erros, fortaleci meu conhecimento de HTML e CSS em aplicar conceitos e o que foi visto no projeto anterior, utilizei o figma ao seguir o protótipo do projeto e solucionar o código quebrado.
+Fui além me desafiei em aplicar conceitos que não foi visto nas aulas do Stage 1 e Stage 2, variaveis CSS, reset CSS, importação de tipografia no arquivo CSS externo e estrutura de organização do arquivos do projeto.
 
 Acesse o página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/treiname/)
 
