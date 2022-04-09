@@ -11,7 +11,7 @@
 O desafio desse projeto foi corrigir bugs página web que veio quebrado e com erros, fortaleci meu conhecimento de HTML e CSS em aplicar conceitos e o que foi visto no projeto anterior, utilizei o figma ao seguir o protótipo do projeto e solucionar o código quebrado.
 Fui além me desafiei em aplicar conceitos que não foi visto nas aulas do Stage 1 e Stage 2, variaveis CSS, reset CSS, importação de tipografia no arquivo CSS externo e estrutura de organização do arquivos do projeto.
 
-Acesse o página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/treiname/)
+Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/treiname/)
 
 O que foi feito:
 
