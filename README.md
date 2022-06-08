@@ -16,7 +16,7 @@ I went further, challenged myself to apply concepts that were not seen in the
 Stage 1 and Stage 2 classes, CSS variables, CSS reset, typography import in the 
 external CSS file and the organization structure of the project files.
 
-Watch Webpage Online: [Click Here](https://felipe-gomes-vicente.github.io/treiname/)
+Watch it in action Deploy: [Click Here](https://felipe-gomes-vicente.github.io/treiname/)
 
 What was developed:
 
@@ -59,7 +59,7 @@ to this project, with the lessons:
 
 ## 🧪 Tools
 
-Aplicação desenvolvida usando as seguintes tecnologias:
+Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
